@@ -1,4 +1,4 @@
-.header{
+ï»¿.header{
  width:100%;
  background-color:#222;
  top:0px;
@@ -7,7 +7,7 @@
 }
 
  .part h2{
- font-family: "ºÚÌå";
+ font-family: "é»‘ä½“";
 }
 
 
@@ -41,7 +41,7 @@ color: grey;
 
 .text{
 font-size: 15px;
-font-family: "Ó×Ô²";
+font-family: "å¹¼åœ†";
 
 }
 
@@ -130,7 +130,7 @@ box-shadow: 3px 3px 10px #9edeff;
 }
 
 .span{
-font-family: "Ó×Ô²";
+font-family: "å¹¼åœ†";
 font-size: 12px;
 display: block;
 text-align: right;
